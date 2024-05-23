@@ -1,0 +1,44 @@
+{
+    "produto1": {
+        "janeiro": {
+            "vendas": 1000,
+            "comissao": 10,  # 10% de comissão
+        },
+        "dezembro": {
+            "vendas": 500,
+            "comissao": 15,  # 15% de comissão
+        },
+    },
+    "produto2": {
+        "janeiro": {
+            "vendas": 200,
+            "comissao": 0,  # 0% de comissão
+        },
+        "fevereiro": {
+            "vendas": 300,
+            "comissao": 0,  # 0% de comissão
+        },
+        "marco": {
+            "vendas": 400,
+            "comissao": 0,  # 0% de comissão
+        },
+        "abril": {
+            "vendas": 500,
+            "comissao": 0,  # 0% de comissão
+        },
+    },
+    "produto3": {
+        "outubro": {
+            "vendas": 1000,
+            "comissao": 5,  # 5% de comissão
+        },
+        "novembro": {
+            "vendas": 2000,
+            "comissao": 10,  # 10% de comissão
+        },
+        "dezembro": {
+            "vendas": 3000,
+            "comissao": 15,  # 15% de comissão
+        },
+    },
+}
